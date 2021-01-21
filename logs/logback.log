@@ -1,0 +1,1 @@
+[2021-01-15 14:48:20:6198200][http-nio-8000-exec-2] WARN  com.cos.person.config.BindingAdvice - com.cos.person.web.UserController.save() => 필드 : username, 메시지 : 유저네임 길이를 초과하였습니다.
